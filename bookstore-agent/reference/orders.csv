@@ -1,0 +1,6 @@
+order_id,order_date,customer_name,email,item,sku_or_isbn,format,course,qty,unit_price,total,payment_method,fulfillment,notes
+1001,2026-09-18,Priya Shah,priya.shah@riverbend.example,Principles of Microeconomics 9th Ed.,978-0-00-000101-4,New,ECON 201,1,189.95,189.95,Credit card,Shipped,
+1002,2026-08-24,Marcus Bell,marcus.bell@riverbend.example,Statistics Online Homework Access Code,DIG-STAT-2041,Digital access code,STAT 210,1,124.00,124.00,Credit card,Emailed,Code redeemed 2026-08-26
+1003,2026-08-19,Dana Okafor,dana.okafor@riverbend.example,Introductory Biology 12th Ed.,978-0-00-000207-3,Used rental,BIOL 110,1,68.50,68.50,Credit card,In-store pickup,Rental due 2026-12-18
+1004,2025-09-02,Tyler Brandt,tyler.brandt@riverbend.example,Riverbend Hawks Hoodie (Size L),APP-HOOD-L,Apparel,,2,64.00,128.00,Debit card,In-store purchase,
+1005,2026-09-10,Jordan Lee,jlee27@riverbend.example,TI-84 Plus CE Graphing Calculator,ELEC-TI84CE,Electronics,MATH 151,1,149.99,149.99,Student account (financial aid),In-store pickup,

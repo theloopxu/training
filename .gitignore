@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 wilson-scheduler/runs/*
 !wilson-scheduler/runs/.gitkeep
+
+bookstore-agent/outputs/*
+!bookstore-agent/outputs/.gitkeep

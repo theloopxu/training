@@ -4,7 +4,9 @@ A fictional faculty-scheduling exercise for The Loop Agentic AI Literacy class. 
 
 ## Start in Claude Cowork
 
-1. Extract this folder onto your Desktop and give Cowork access to it.
+1. Click [download link](https://github.com/theloopxu/training/releases/download/wilson-scheduler-v1/wilson-scheduler.zip), save wilson-scheduler.zip to your Desktop, and connect your Desktop folder in Claude.
+
+   **Windows:** If you unzip by hand with Extract All, change the destination to just your Desktop. Otherwise you may get `Desktop\wilson-scheduler\wilson-scheduler`.
 2. Ask: "Read CLAUDE.md first and follow it. Check the required packages in your execution environment. Explain the workflow and where you will stop for my input. Do not run the schedule yet."
 3. Ask: "Run the schedule using survey/responses-fall-2027.xlsx."
 4. Review the open questions. Answer them or say "Use defaults."

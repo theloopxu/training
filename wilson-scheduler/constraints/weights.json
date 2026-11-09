@@ -1,0 +1,17 @@
+{
+  "_note": "Soft-rule weights read by tools/solve.py. IDs match constraints/rules.md. Change a weight here, never in code.",
+  "S1_rank": {"1": 10, "2": 6, "3": 3, "other": 2},
+  "S2_prefer": 8,
+  "S2_avoid": 8,
+  "S3_habit": 2,
+  "S4_same_block": 6,
+  "S5_same_room_consecutive": 3,
+  "S5_requested_bonus": 3,
+  "S6_three_in_a_row": 5,
+  "S8_friday_afternoon": 2,
+  "S10_overload": 20,
+  "S10_underload": 5,
+  "adjunct_section": 3,
+  "stability": 4,
+  "unassigned_section": 1000
+}

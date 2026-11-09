@@ -1,0 +1,22 @@
+name,status,fall_load,qualified,habit_morning,habit_afternoon,habit_evening
+"Tollman, Dawn",full-time,4,ENTR 301;ENTR 305;MGMT 200;MGMT 305;MGMT 550,0.31,0.39,0.3
+"Van Thorn, Amy",full-time,5,MGMT 200;MGMT 201;MGMT 314,0.74,0.14,0.12
+"Silva, George",full-time,5,MGMT 201;SHRM 300,0.76,0.24,0.0
+"Hollering, Mike",full-time,2,ENTR 301;ENTR 303;ENTR 305;MGMT 200;MGMT 305;MGMT 309;MGMT 550,0.46,0.49,0.05
+"Humpfree, Jerry",full-time,4,ENTR 305;MGMT 305;MGMT 342,0.21,0.79,0.0
+"Regal, Matt",full-time,3,ENTR 303;ENTR 305;ENTR 311;MGMT 200;MGMT 305;MGMT 550,0.7,0.19,0.1
+"Steffanson, DJ",full-time,3,MGMT 200;MGMT 314;MGMT 614,0.67,0.33,0.0
+"Webstar, Ryan",full-time,3,MGMT 200;MGMT 309,0.42,0.46,0.12
+"Rustle, Zack",full-time,2,MGMT 200;MGMT 201;MGMT 550;SHRM 360,0.01,0.99,0.0
+"Leigh, Nina",full-time,3,MGMT 200;MGMT 303;MGMT 325,0.73,0.27,0.0
+"Lenses, Marcy",full-time,3,MGMT 200;MGMT 314;MGMT 385,0.26,0.56,0.18
+"Warren, Stefan",full-time,4,MGMT 200,1.0,0.0,0.0
+"Krishner, Emma",adjunct,2,MGMT 200;MGMT 616,0.0,0.0,1.0
+"Woodley, Matt",adjunct,1,MGMT 201,0.0,0.0,1.0
+"Airway, Angela",adjunct,1,MGMT 201,0.0,0.0,1.0
+"Steerly, Karen",adjunct,1,MGMT 201,0.0,0.0,1.0
+"Ennis, Sara",adjunct,1,MGMT 201,0.0,0.0,1.0
+"Kenwood, Angie",adjunct,1,MGMT 550;MGMT 614,0.0,0.0,1.0
+"Woo, Lifang",adjunct,1,MGMT 200;MGMT 201,0.0,0.0,1.0
+"Baker, Stephanie",adjunct,1,MGMT 322,0.0,0.0,1.0
+"Lear, Chris",adjunct,1,MGMT 200,0.0,0.0,1.0

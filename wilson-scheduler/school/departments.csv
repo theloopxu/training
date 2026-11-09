@@ -1,0 +1,7 @@
+department,subjects,scheduled_in_demo
+Management,MGMT;ENTR;SHRM,True
+Accounting,ACCT;MACC;BLAW,False
+Finance,FINC,False
+Marketing,MKTG,False
+Economics,ECON,False
+Analytics and Business Administration,BUAD;MSBA;BAIS,False

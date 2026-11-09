@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+wilson-scheduler/runs/*
+!wilson-scheduler/runs/.gitkeep

@@ -1,0 +1,20 @@
+room,type,capacity,typical_weekly_hours
+WH 106,classroom,45,12.7
+WH 137,classroom,40,38.1
+WH 141,classroom,35,33.4
+WH 218,classroom,25,2.5
+WH 247,classroom,24,2.5
+WH 249,classroom,32,38.8
+WH 250,classroom,32,37.2
+WH 251,classroom,31,35.7
+WH 252,classroom,35,37.1
+WH 346,classroom,32,36.7
+WH 347,classroom,30,30.2
+WH 348,classroom,32,31.0
+WH 349,classroom,32,30.6
+WH G23,classroom,40,21.4
+WH G27,classroom,40,30.0
+WH G28,classroom,30,28.3
+WH G29,classroom,40,22.5
+WH G30,classroom,60,24.0
+WH AI Lab,lab,20,0

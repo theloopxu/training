@@ -1,0 +1,155 @@
+course,section,title,instructor,days,start,end,room,cap
+MACC 504,01,Acct Info Systems & Controls,"Wickgenant, Andrea",MW,1400,1515,WH G30,5
+MACC 507,01,Financial Acct & Reporting,"Joans, Meghan",TR,0830,0950,WH 137,5
+MACC 508,99,Financial Acct & Reporting II,"Allyn, Joyce",TR,1600,1720,WH G30,5
+MACC 509,01,Financial Acct & Reporting III,"Cockerel, Ron",TR,1000,1120,WH 346,5
+MACC 511,01,Introduction to Taxation,"Newkirke, Caitlin",TR,1300,1420,WH 348,5
+MACC 511,02,Introduction to Taxation,"Newkirke, Caitlin",TR,1430,1550,WH 348,5
+MACC 514,01,Corporate Taxation,"Randall, Dave",MW,1630,1750,WH 249,13
+MACC 521,01,Nonprofit & Govt Acct,"Millard, Tim",M,1800,2030,WH 347,24
+MACC 590,01,Auditing Concepts & Practices,"Siegler, Jake",TR,1430,1550,WH G29,5
+MACC 601,01,Business Comm Strategy,"Daley, Sam",W,1800,1940,WH 348,20
+MACC 631,01,Advanced Financial Acct,"Motherly, Celeste",T,1800,2030,WH 252,19
+ACCT 200,01,Introductory Financial Accounting,"Millard, Tim",MW,0800,0915,WH 348,24
+ACCT 200,02,Introductory Financial Accounting,"Millard, Tim",MW,0930,1045,WH 348,24
+ACCT 200,03,Introductory Financial Accounting,"Randall, Dave",MW,1400,1515,WH 348,24
+ACCT 200,04,Introductory Financial Accounting,"Bruer, Penny",MWF,0905,1000,WH 250,24
+ACCT 200,05,Introductory Financial Accounting,"Cockerel, Ron",TR,0830,0950,WH 346,24
+ACCT 200,06,Introductory Financial Accounting,"Joans, Meghan",TR,1000,1120,WH 137,24
+ACCT 200,07,Introductory Financial Accounting,"Joans, Meghan",TR,1130,1250,WH 137,24
+ACCT 200,08,Introductory Financial Accounting,"Humpfree, Dave",TR,1600,1720,WH 348,24
+ACCT 201,01,Introductory Managerial Accounting,"Bruer, Penny",MWF,1115,1210,WH 347,24
+ACCT 201,02,Introductory Managerial Accounting,"Bruer, Penny",MWF,1220,1315,WH 347,24
+ACCT 201,03,Introductory Managerial Accounting,"Bruer, Penny",MWF,1325,1420,WH 347,24
+ACCT 201,04,Introductory Managerial Accounting,"Siegler, Jake",TR,0830,0950,WH 141,25
+ACCT 201,05,Introductory Managerial Accounting,"Siegler, Jake",TR,1000,1120,WH 141,24
+ACCT 300,01,Accounting Profession & Ethics,"Wickgenant, Andrea",MW,1630,1750,WH G30,34
+ACCT 304,01,Acct Info Systems & Controls,"Wickgenant, Andrea",MW,1400,1515,WH G30,24
+ACCT 307,01,Fin Actg & Reporting I,"Joans, Meghan",TR,0830,0950,WH 137,24
+ACCT 308,01,Fin Actg & Reporting II,"Allyn, Joyce",TR,1600,1720,WH G30,24
+ACCT 309,01,Fin Actg & Reporting III,"Cockerel, Ron",TR,1000,1120,WH 346,24
+ACCT 311,01,Introduction to Taxation,"Newkirke, Caitlin",TR,1300,1420,WH 348,22
+ACCT 311,02,Introduction to Taxation,"Newkirke, Caitlin",TR,1430,1550,WH 348,22
+ACCT 385,01,Financial Modeling,"Woo, Qingqing",TR,1000,1120,WH 106,10
+ACCT 385,02,Financial Modeling,"Woo, Qingqing",TR,1130,1250,WH 106,10
+ACCT 414,01,Corporate Taxation,"Randall, Dave",MW,1630,1750,WH 249,15
+ACCT 490,01,Auditing,"Siegler, Jake",TR,1430,1550,WH G29,25
+ACCT 550,E27,Managerial Accounting,"Humpfree, Dave",R,1800,2030,WH 141,25
+BUAD 398,02,Business Core Capstone,"Hollering, Mike",TR,1300,1420,WH G29,24
+BUAD 398,03,Business Core Capstone,"Lenses, Marcy",TR,1430,1550,WH 250,24
+BUAD 398,08,Business Core Capstone,"Hollering, Mike",W,1800,2030,WH 250,24
+MSBA 602,01B,Marketing Research,"Lew, Richie",MW,1800,2030,WH G28,15
+MSBA 660,01,Data Wrangling,"Wong, Jiantang",R,1800,2030,WH G28,20
+MSBA 665,01,Optimization and Prescr Analys,"Jacobs, Jagan",T,1800,2030,WH G28,24
+MSBA 689,01A,Data Visualization & Storytell,"Aryachandran, Thilina",MW,1800,2030,WH G28,20
+MSBA 695,01,SpecTop in Bus Analytic:Ethics,"Lew, Richie",S,0900,1200,WH 250,20
+MSBA 695,01,SpecTop in Bus Analytic:Ethics,"Lew, Richie",S,1300,1600,WH 250,20
+BAIS 210,01,Quantitative Methods,"Kaminsky, Holly",TR,1300,1420,WH G27,22
+BAIS 210,02,Quantitative Methods,"Kaminsky, Holly",TR,1430,1550,WH G27,22
+BAIS 210,07S,Quantitative Methods,"Senn, Amit",MWF,1220,1315,WH G27,32
+BAIS 211,01,Intro to Business Analytics,"Hofman, Julie",MWF,0905,1000,WH G27,20
+BAIS 211,03,Intro to Business Analytics,"Kaminsky, Holly",TR,0830,0950,WH G27,20
+BAIS 211,07,Intro to Business Analytics,"Kaminsky, Holly",W,1800,1915,WH G27,20
+BAIS 220,01,Mgmnt of Info Tech,"Aryachandran, Thilina",TR,0830,0950,WH G28,25
+BAIS 220,05,Mgmnt of Info Tech,"Hofman, Julie",MWF,1115,1210,WH G28,25
+BAIS 220,06,Mgmnt of Info Tech,"Hofman, Julie",MWF,1220,1315,WH G28,25
+BAIS 220,08,Mgmnt of Info Tech,"Hofman, Julie",MWF,1325,1420,WH G28,25
+BAIS 220,10,Mgmnt of Info Tech,"Senna, Marc",TR,1000,1120,WH G27,25
+BAIS 302,01,Intro to Ops & Supply Chain Mg,"Woo, Lifang",MW,0800,0915,WH G23,27
+BAIS 302,02,Intro to Ops & Supply Chain Mg,"Woo, Lifang",MW,0930,1045,WH G23,27
+BAIS 302,03,Intro to Ops & Supply Chain Mg,"Jacobs, Jagan",MWF,1220,1315,WH 251,20
+BAIS 302,05,Intro to Ops & Supply Chain Mg,"Woo, Lifang",W,1800,2030,WH 252,20
+BAIS 302,06,Intro to Ops & Supply Chain Mg,"Jacobs, Jagan",MWF,1325,1420,WH 251,20
+BAIS 311,01,Sabermetrics,"Highland, Dave",MW,1130,1245,WH 218,15
+BAIS 329,01,Data Mining,"Wong, Jiantang",TR,1130,1250,WH G28,20
+BAIS 329,03,Data Mining,"Wong, Jiantang",TR,1300,1420,WH G28,20
+BAIS 358,01,Data Modeling and Management,"Assay, Joel",TR,1430,1550,WH G28,20
+BAIS 360,01,Intro to Application Developmt,"Senna, Marc",TR,1130,1250,WH G27,20
+BAIS 365,01,Business Analytics,"Smyth, Greg",MW,0800,0915,WH G28,20
+BAIS 365,02,Business Analytics,"Smyth, Greg",MW,0930,1045,WH G28,12
+BAIS 389,01,Data Visualization,"Aryachandran, Thilina",TR,1000,1120,WH G28,20
+BAIS 660,01,Programming For Analytics,"Wong, Jiantang",R,1800,2030,WH G28,5
+BAIS 665,02,Business Analytics for Mgrs,"Jacobs, Jagan",T,1800,2030,WH G28,5
+BAIS 689,01A,Data Visualization,"Aryachandran, Thilina",MW,1800,2030,WH G28,5
+BLAW 300,02,Legal Environment,"Powel, Lara",MW,0930,1045,WH 349,29
+BLAW 300,04,Legal Environment,"Heidy, Kathleen",TR,1300,1420,WH 346,27
+BLAW 300,06,Legal Environment,"Sweetin, Bill",T,1800,2030,WH 250,29
+BLAW 400,01S,Regulatory Environ of Business,"Heidy, Kathleen",TR,1130,1250,WH 346,25
+BLAW 550,E27,Business Law and Ethics,"Bankes, Ivy",W,1800,2030,WH 141,25
+BLAW 755,X26,Business Law and Ethics,"Bankes, Ivy",F,0800,1215,WH 141,0
+BLAW 755,X26,Business Law and Ethics,"Bankes, Ivy",S,0800,1215,WH 141,0
+BLAW 755,X26,Business Law and Ethics,"Bankes, Ivy",S,1300,1715,WH 141,0
+ECON 200,01,Microeconomic Principles,"Arnauld, Sienna",TR,1000,1120,WH G30,27
+ECON 200,02,Microeconomic Principles,"Yuderian, Xiaoyan",MWF,1325,1420,WH 346,27
+ECON 200,06H,Microeconomic Principles,"Yee, David",MWF,1010,1105,WH 347,27
+ECON 200,10,Microeconomic Principles,"Heakin, Ellen",TR,0830,0950,WH 348,27
+ECON 200,11,Microeconomic Principles,"Arnauld, Sienna",TR,1130,1250,WH G30,27
+ECON 200,13,Microeconomic Principles,"Baumgarten, Erik",T,1800,2030,WH 348,27
+ECON 201,01,Macroeconomic Principles,"Farooq, Hassan",TR,1300,1420,WH G30,27
+ECON 201,02,Macroeconomic Principles,"Yuderian, Xiaoyan",MWF,1010,1105,WH 251,27
+ECON 201,03,Macroeconomic Principles,"Choy, Jae Hun",MWF,1325,1420,WH 249,27
+ECON 201,04,Macroeconomic Principles,"Yuderian, Xiaoyan",MWF,1115,1210,WH 251,27
+ECON 201,06,Macroeconomic Principles,"Choy, Jae Hun",MWF,1430,1525,WH 249,27
+ECON 201,09S,Macroeconomic Principles,"Farooq, Hassan",TR,1430,1550,WH G30,32
+ECON 300,01,International Trade & Business Environment,"Yee, David",TR,1130,1250,WH G29,27
+ECON 300,03,International Trade & Business Environment,"Farooq, Hassan",TR,1600,1720,WH 347,27
+ECON 300,04,International Trade & Business Environment,"Yee, David",TR,0830,0950,WH 252,27
+ECON 305,01,Microeconomic Analysis,"Kozak, Ed",TR,1130,1250,WH 252,27
+ECON 306,01,Macroeconomic Analysis,"Choy, Jae Hun",MWF,1220,1315,WH 249,27
+ECON 307,01,Empirical Analysis In Economic,"Senn, Amit",MWF,1115,1210,WH 250,27
+ECON 320,02,Natural Resource Economics,"Rouse, Justin",MWF,0905,1000,WH 347,27
+ECON 340,01S,Econ Th & App in Pub Pol,"Yee, David",TR,1000,1120,WH 252,32
+ECON 370,01,Historic Dev of Amer Econ,"Kozak, Ed",TR,1300,1420,WH 252,27
+ECON 370,02S,Historic Dev of Amer Econ,"Kozak, Ed",TR,1600,1720,WH 252,27
+ECON 420,01,Urban and Regional Economics,"Arnauld, Sienna",TR,1430,1550,WH 141,18
+ECON 550,E27,Managerial Economics,"Baumgarten, Erik",M,1800,2030,WH 141,20
+FINC 300,01,Business Finance,"Choy, Youngmi",TR,0830,0950,WH 347,30
+FINC 300,02,Business Finance,"Choy, Youngmi",TR,1000,1120,WH G23,30
+FINC 300,03,Business Finance,"Choy, Youngmi",TR,1430,1550,WH G23,30
+FINC 300,04,Business Finance,"Cruise, Tim",TR,1600,1720,WH G29,25
+FINC 300,05,Business Finance,"Bailyet, Ralph",MWF,1010,1105,WH 250,30
+FINC 300,06,Business Finance,"Runners, Kim",MW,1000,1115,WH G30,30
+FINC 300,07,Business Finance,"Forst, Ryan",M,1800,2030,WH 249,25
+FINC 350,01,Financial Statement Analysis,"Runners, Kim",MW,1130,1245,WH 106,30
+FINC 350,02,Financial Statement Analysis,"Runners, Kim",MW,1300,1415,WH 106,30
+FINC 365,01,Investments,"Bailyet, Ralph",MWF,1220,1315,WH 250,30
+FINC 365,02,Investments,"Bailyet, Ralph",MWF,1325,1420,WH 250,30
+FINC 385,01,Financial Modeling,"Woo, Qingqing",TR,1000,1120,WH 106,20
+FINC 385,02,Financial Modeling,"Woo, Qingqing",TR,1130,1250,WH 106,22
+FINC 390,01,Firm Valuation,"Dooley, Chad",MWF,1115,1210,WH 252,30
+FINC 390,02,Firm Valuation,"Dooley, Chad",MWF,1220,1315,WH 252,25
+FINC 401,01,Intermediate Financial Mgmt,"Revolta, Yi",TR,1000,1120,WH 251,30
+FINC 401,02,Intermediate Financial Mgmt,"Revolta, Yi",TR,1130,1250,WH 251,30
+FINC 475,01,Real Estate Finance,"Joans, Tim",TR,1130,1250,WH 249,25
+FINC 476,01,International Finance,"Cruise, Tim",TR,1300,1420,WH 251,20
+FINC 478,01,Introduction to Fintech,"Dooley, Chad",MWF,1325,1420,WH 252,20
+FINC 492,01,Portfolio Management II,"Highland, Dave",W,0830,0945,WH G29,30
+FINC 492,01,Portfolio Management II,"Highland, Dave",M,1000,1115,WH G29,30
+MKTG 300,01,Principles of Marketing,"Hays, Tom",TR,0830,0950,WH 250,25
+MKTG 300,02,Principles of Marketing,"Hays, Tom",TR,1000,1120,WH 250,25
+MKTG 300,03,Principles of Marketing,"Hays, Tom",TR,1300,1420,WH 349,25
+MKTG 300,04,Principles of Marketing,"Utsler, Karen",MWF,1325,1420,WH 348,25
+MKTG 300,05,Principles of Marketing,"Hooten, Dave",MWF,1115,1210,WH 249,25
+MKTG 300,07,Principles of Marketing,"Lacy, Russ",TR,1600,1720,WH 349,25
+MKTG 300,08,Principles of Marketing,"Lazar, Christine",TR,1430,1550,WH 349,24
+MKTG 300,10,Principles of Marketing,"Beekner, Brian",TR,1000,1120,WH G29,25
+MKTG 300,11,Principles of Marketing,"Hooten, Dave",MWF,1010,1105,WH 249,25
+MKTG 302,01,Marketing Research,"Lovelace, Katherine",TR,1130,1250,WH G23,25
+MKTG 302,03,Marketing Research,"Becker, Scot",TR,0830,0950,WH 251,25
+MKTG 315,01,Principles of Category Mgmt,"Becker, Scot",TR,1300,1420,WH 347,25
+MKTG 320,02,International Marketing,"Lovelace, James",W,1400,1630,WH 250,25
+MKTG 330,01,Retail Marketing,"Beekner, Brian",TR,1430,1550,WH 249,25
+MKTG 361,01,Professional Selling,"Utsler, Karen",MW,0930,1045,WH 137,26
+MKTG 361,02,Professional Selling,"Utsler, Karen",MW,1100,1215,WH 137,26
+MKTG 368,01,Brand Building,"Kurensky, Mike",TR,1000,1120,WH 348,24
+MKTG 368,02,Brand Building,"Kurensky, Mike",TR,1130,1250,WH 348,24
+MKTG 370,02,Consumer Behavior,"Stadtler-Blanc, Ashley",TR,1600,1720,WH 251,25
+MKTG 370,03,Consumer Behavior,"Stadtler-Blanc, Ashley",TR,1430,1550,WH 251,25
+MKTG 391,01,Sponsorship in Marketing P+P,"Stadtler-Blanc, Ashley",TR,1730,1850,WH 251,16
+MKTG 396,01,Retail Analytics Practicum,"Beekner, Brian",TR,1300,1420,WH G21,20
+MKTG 398,01,Social Media Marketing,"Hooten, Dave",TR,1300,1420,WH G23,25
+MKTG 495,01,Marketing Planning & Analysis,"Kurensky, Mike",TR,1430,1550,WH 346,16
+MKTG 495,02,Marketing Planning & Analysis,"Kurensky, Mike",TR,1600,1720,WH 346,16
+MKTG 550,E27,Marketing Strategy,"Lacy, Russ",T,1800,2030,WH 141,25
+MKTG 602,01B,Marketing Research,"Lew, Richie",MW,1800,2030,WH G28,12
+SPMG 391,01,Sponsorship in Marketing,"Stadtler-Blanc, Ashley",TR,1730,1850,WH 346,8
